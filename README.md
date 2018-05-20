@@ -18,7 +18,8 @@ School Test
 ## How to install and run
 
 #####Python 3 Required
-
+    
+    git clone https://github.com/tyagow/schoolquiz.git schoolquiz
     python -m venv .venv
     source .venv/bin/activate
     pip install -r requeriments.txt
