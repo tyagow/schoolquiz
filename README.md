@@ -17,4 +17,14 @@ School Test
     
 ## How to install and run
 
+#####Python 3 Required
+
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install -r requeriments.txt
+    pytest tests.py
+    ipython notebook sample.ipynb
+    
+    
+    
     
